@@ -1,4 +1,4 @@
-const API_BASE = "https://your-backend.onrender.com";  // apna backend URL daalna
+const API_BASE = "https://video-upload-backend-1z4d.onrender.com";  // apna backend URL daalna
 
 document.getElementById("uploadForm").addEventListener("submit", async (e) => {
   e.preventDefault();
